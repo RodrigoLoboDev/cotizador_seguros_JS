@@ -15,7 +15,7 @@ Este es el frontend de Cotizador de Seguros, una aplicación web diseñada para 
 
 ## 🎥 Prueba la Aplicación
 
-Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://tuenlace.netlify.app).
+Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://cotizador-seguros-reactjs-2024.netlify.app/).
 
 ## 📝 Funcionalidades Principales
 
@@ -38,7 +38,7 @@ src/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/RodrigoLoboDev/REST_API_FRONTEND-PRODUCTS
+git clone https://github.com/RodrigoLoboDev/cotizador_seguros_JS
 ```
 2. Instala las dependencias:
 
